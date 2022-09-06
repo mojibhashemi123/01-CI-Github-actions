@@ -1,4 +1,4 @@
 package com.pgr301.exam;
 
-public class BackEndException exteds RuntimeException {
+public class BackEndException extends RuntimeException {
 }
